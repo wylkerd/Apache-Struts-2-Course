@@ -1,0 +1,33 @@
+[2021-12-13 19:28:05] [info]  [16400] Apache Commons Daemon procrun (1.2.4.0 64-bit) started.
+[2021-12-13 19:28:05] [info]  [16400] Installing service 'Tomcat8' name 'Apache Tomcat 8.5 Tomcat8'.
+[2021-12-13 19:28:05] [info]  [16400] Service 'Tomcat8' installed.
+[2021-12-13 19:28:05] [info]  [16400] Apache Commons Daemon procrun finished.
+[2021-12-13 19:28:05] [info]  [12480] Apache Commons Daemon procrun (1.2.4.0 64-bit) started.
+[2021-12-13 19:28:05] [info]  [12480] Updating service...
+[2021-12-13 19:28:05] [info]  [12480] Updated service 'Tomcat8'.
+[2021-12-13 19:28:05] [info]  [12480] Finished updating service 'Tomcat8'.
+[2021-12-13 19:28:05] [info]  [12480] Apache Commons Daemon procrun finished.
+[2021-12-13 19:28:06] [info]  [ 8996] Apache Commons Daemon procrun (1.2.4.0 64-bit) started.
+[2021-12-13 19:28:06] [info]  [ 8996] Updating service...
+[2021-12-13 19:28:06] [info]  [ 8996] Updated service 'Tomcat8'.
+[2021-12-13 19:28:06] [info]  [ 8996] Finished updating service 'Tomcat8'.
+[2021-12-13 19:28:06] [info]  [ 8996] Apache Commons Daemon procrun finished.
+[2021-12-13 19:28:06] [info]  [20932] Apache Commons Daemon procrun (1.2.4.0 64-bit) started.
+[2021-12-13 19:28:06] [info]  [20932] Updating service...
+[2021-12-13 19:28:06] [info]  [20932] Updated service 'Tomcat8'.
+[2021-12-13 19:28:06] [info]  [20932] Finished updating service 'Tomcat8'.
+[2021-12-13 19:28:06] [info]  [20932] Apache Commons Daemon procrun finished.
+[2021-12-13 19:28:06] [info]  [ 3488] Apache Commons Daemon procrun (1.2.4.0 64-bit) started.
+[2021-12-13 19:28:06] [info]  [ 3488] Updating service...
+[2021-12-13 19:28:06] [info]  [ 3488] Updated service 'Tomcat8'.
+[2021-12-13 19:28:06] [info]  [ 3488] Finished updating service 'Tomcat8'.
+[2021-12-13 19:28:06] [info]  [ 3488] Apache Commons Daemon procrun finished.
+[2021-12-13 19:28:06] [info]  [ 3384] Apache Commons Daemon procrun (1.2.4.0 64-bit) started.
+[2021-12-13 19:28:06] [info]  [ 3384] Updating service...
+[2021-12-13 19:28:06] [info]  [ 3384] Updated service 'Tomcat8'.
+[2021-12-13 19:28:06] [info]  [ 3384] Finished updating service 'Tomcat8'.
+[2021-12-13 19:28:06] [info]  [ 3384] Apache Commons Daemon procrun finished.
+[2021-12-13 19:29:23] [info]  [ 3828] Apache Commons Daemon procrun (1.2.4.0 64-bit) started.
+[2021-12-13 19:29:23] [info]  [ 3828] Running Service 'Tomcat8'...
+[2021-12-13 19:29:23] [info]  [21844] Starting service...
+[2021-12-13 19:29:24] [info]  [21844] Service started in 1370 milliseconds.
